@@ -19,10 +19,28 @@
 限臺東大學資管系在校學生參賽，限制50人參加
 
 ## 範例教學
-05/25 公佈
+1. 注冊 GitHub 賬號
+![](Photos/1.png)
+2. 注冊 ZeroJudge 賬號
+![](Photos/2.png)
+3. fork 本次活動的 GitHub Repo
+![](Photos/3.png)
+4. 命名爲【學號-CW2026】
+![](Photos/4.png)
+5. 在 ZeroJudge 進行刷題
+![](Photos/5.png)
+6. commit 内容為【題號】
+![](Photos/6.png)
+7. **嚴格按照以下結構進行題目分組，未符合者不予計分**
+![](Photos/7.png)
+8. **嚴格按照以下格式進行題目記錄，未符合者不予計分**
+![](Photos/8.png)
 
 ## 獎品
-### 第一名：
-### 第二名：
-### 第三名：
-### 參加獎：哈瑞寶 金熊q軟糖 1包
+### 第一名：Kingston DataTraveler 32GB * 1 + LEVEN 64GB * 1
+### 第二名：LEVEN 64GB * 1
+### 第三名：Kingston DataTraveler 32GB * 1
+### 參加獎：餅乾及茶包若干，依頒獎當天訂定
+
+## 頒獎時間及地點
+06/08 下午1點30分與資管系辦公室
